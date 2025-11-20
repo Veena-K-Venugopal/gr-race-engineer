@@ -8,3 +8,7 @@ venv/
 .vscode/
 .DS_Store
 /codealike.json
+
+# Ignore huge raw telemetry files (stay local only)
+data/raw/COTA/Race 1/R1_cota_telemetry_data.csv
+data/raw/COTA/Race 2/R2_cota_telemetry_data.csv
